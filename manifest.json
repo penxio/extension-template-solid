@@ -1,6 +1,6 @@
 {
+  "title": "Extension Template Solid",
   "name": "extension-template-solid",
-  "id": "extension-template-solid",
   "description": "This is a custom UI demo.",
   "icon": "logo.svg",
   "commands": [
